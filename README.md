@@ -13,9 +13,11 @@ Un documento en Google Sheets abierto que contiene:
 •	Dataset_ventas_lacteos – los datos originales
 •	Análisis – los graficos y el dashboard interactivo del proyecto
 •	Conclusiones – un documento que recopila los resultados de nuestro analisis y plantea algunas preguntas para el futuro. 
+(https://docs.google.com/spreadsheets/d/1pZ2duSTcKO5c44qGqMrWakR5cPPcC8RC85G2XRpjWD0/edit?usp=sharing)
+
 
 Un documento README con la descripción del proyecto
-Una base de datos de Kaggle https://www.kaggle.com/datasets/hectorconde/dataset-ventas-lacteos-2024
+Una base de datos de Kaggle (https://www.kaggle.com/datasets/hectorconde/dataset-ventas-lacteos-2024)
 
 4. 🛠 Instalación y Requisitos
 
