@@ -10,6 +10,7 @@
 3. 🗂 Estructura del Proyecto
 
 Un documento en Google Sheets abierto que contiene:
+
 •	Dataset_ventas_lacteos – los datos originales
 •	Análisis – los graficos y el dashboard interactivo del proyecto
 •	Conclusiones – un documento que recopila los resultados de nuestro analisis y plantea algunas preguntas para el futuro. 
